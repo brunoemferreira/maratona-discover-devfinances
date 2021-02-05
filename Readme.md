@@ -12,12 +12,9 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/brunoemferreira/maratona-discover-devfinances
-?color=%2304D361">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/brunoemferreira/maratona-discover-devfinances
-">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brunoemferreira/maratona-discover-devfinances
-">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/brunoemferreira/maratona-discover-devfinances?color=%2304D361">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/brunoemferreira/maratona-discover-devfinances">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brunoemferreira/maratona-discover-devfinances">
 </p>
 
 <p align="center">
